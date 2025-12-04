@@ -1,0 +1,34 @@
+Learnt
+1. WebRequest
+2. ResponseEntityExceptionHandler and MethodArgumentNotValidException for validation exception
+3. Spring doc {@OpenAPIDefinition , @Tag , @Operation , @ApiResponses ,  @ApiResponse , @Schema , @Content}
+
+
+
+
+
+
+
+
+
+Annotations
+
+@SpringBootApplication
+@Service
+@Repository
+@Configuration
+@Bean
+@RequestMapping , @GetMapping , @PutMapping , @PostMapping , @DeleteMapping
+@RestController
+@ControllerAdvice
+@ExceptionHandler
+@RequestBody , @RequestParam , @PathVariable
+@ComponentScans , @EnableJpaRepositories , @EntityScan
+@Validated , @Valid , @NotEmpty , @Email , @Size , @Pattern {validator annotation}
+
+
+@MappedSuperclass {New annotation}
+@ResponseStatus {New annotation}
+@PrePersist {New annotation}
+@PreUpdate {New annotation}
+@OpenAPIDefinition , @Tag , @Operation , @ApiResponses ,  @ApiResponse , @Schema , @Content {New annotation}

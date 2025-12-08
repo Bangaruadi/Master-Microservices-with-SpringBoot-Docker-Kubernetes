@@ -5,3 +5,4 @@ Learn &amp; Develop Microservices with Java, Spring Boot, Spring Cloud, Docker, 
 Below are datapoints
 
 Section2 -> Section2/accounts/Achieved.txt
+Challenge3 -> Challenge3/accounts/Achieved

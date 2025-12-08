@@ -2,6 +2,8 @@ Learnt
 1. WebRequest
 2. ResponseEntityExceptionHandler and MethodArgumentNotValidException for validation exception
 3. Spring doc {@OpenAPIDefinition , @Tag , @Operation , @ApiResponses ,  @ApiResponse , @Schema , @Content}
+4. schema.sql and data.sql
+5. application.properties for database connection
 
 
 
@@ -31,4 +33,5 @@ Annotations
 @ResponseStatus {New annotation}
 @PrePersist {New annotation}
 @PreUpdate {New annotation}
+
 @OpenAPIDefinition , @Tag , @Operation , @ApiResponses ,  @ApiResponse , @Schema , @Content {New annotation}

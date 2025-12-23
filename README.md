@@ -6,4 +6,4 @@ Below are datapoints
 
 Section2 -> Section2/accounts/Achieved.txt
 Challenge3 -> Challenge3/accounts/Achieved
-Challenge4 -> Challenge4/accounts/Achieved
+Challenge4 -> Challenge4/v1-internal-config/accounts/Achieved

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Section2/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Section2/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Section2/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge3/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge3/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge3/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge4/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge4/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge4/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge4/v1-internal-config/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge4/v1-internal-config/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge4/v1-internal-config/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge4/v2-spring-cloud-config/cards/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge4/v2-spring-cloud-config/loans/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge4/v2-spring-cloud-config/accounts/pom.xml" />
+        <option value="$PROJECT_DIR$/Challenge4/v2-spring-cloud-config/configserver/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" default="true" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
